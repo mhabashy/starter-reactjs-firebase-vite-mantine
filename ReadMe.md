@@ -57,5 +57,58 @@ npm run build
 ```
 ---
 
+### Login
+![Desktop Login Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-login.png)
+
+![Desktop Login Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-login-dark.png)
+
+![Mobile Login Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-login.png)
+
+![Mobile Login Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-login-dark.png)
+
+### Signup
+![Desktop Dashboard Up Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-signup.png)
+
+![Desktop Sign Up Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-signup-dark.png)
+
+![Mobile Sign Up Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-signup.png)
+
+![Mobile Sign Up Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-signup-dark.png)
+
+
+### Dashboard
+![Desktop Dashboard Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-dashboard.png)
+
+![Desktop Dashboard Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-dashboard-dark.png)
+
+![Mobile Dashboard Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-dashboard.png)
+
+![Mobile Dashboard Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-dashboard-dark.png)
+
+### Dashboard
+![Desktop Dashboard Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-dashboard.png)
+
+![Desktop Dashboard Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-dashboard-dark.png)
+
+![Mobile Dashboard Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-dashboard.png)
+
+![Mobile Dashboard Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-dashboard-dark.png)
+
+### Settings
+![Desktop Settings Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-settings.png)
+
+![Desktop Settings Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/desktop-settings-dark.png)
+
+
+### Mobile Menu
+![Mobile Menu Light](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-menu.png)
+
+![Mobile Menu Dark](https://raw.githubusercontent.com/mhabashy/starter-reactjs-firebase-vite-mantine/master/src/assets/mobile-menu-dark.png)
+
+
+
+
+
+
 If you like this and/or use it. Please buy me a cup of coffee. I like drinking Starbucks 😗. Sure it will save a ton of startup time.
 https://paypal.me/michaelhabashy
