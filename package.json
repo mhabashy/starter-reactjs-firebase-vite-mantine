@@ -1,0 +1,45 @@
+{
+  "name": "bulkmailer.pro",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build && firebase deploy --only hosting",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.19",
+    "@mantine/core": "^4.2.11",
+    "@mantine/dates": "^4.2.11",
+    "@mantine/dropzone": "^4.2.11",
+    "@mantine/form": "^4.2.11",
+    "@mantine/hooks": "^4.2.11",
+    "@mantine/modals": "^4.2.11",
+    "@mantine/notifications": "^4.2.11",
+    "@mantine/prism": "^4.2.11",
+    "@mantine/spotlight": "^4.2.11",
+    "@types/lodash": "^4.14.182",
+    "dayjs": "^1.11.3",
+    "firebase": "^9.8.4",
+    "lodash": "^4.17.21",
+    "lodash-typescript": "^0.1.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
+    "reactfire": "^4.2.1",
+    "vite-plugin-pages": "^0.25.0",
+    "vite-tsconfig-paths": "^3.5.0",
+    "zustand": "^4.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.2",
+    "sass": "^1.53.0",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.9"
+  }
+}
